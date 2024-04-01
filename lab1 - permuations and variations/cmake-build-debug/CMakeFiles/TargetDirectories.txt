@@ -1,0 +1,3 @@
+/home/tomasz/Pulpit/Probabilistyka i Kombinatoryka/lab1 - permuations and variations/cmake-build-debug/CMakeFiles/lab1___permuations_and_variations.dir
+/home/tomasz/Pulpit/Probabilistyka i Kombinatoryka/lab1 - permuations and variations/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tomasz/Pulpit/Probabilistyka i Kombinatoryka/lab1 - permuations and variations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
